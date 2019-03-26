@@ -1,12 +1,11 @@
 ---
-name: "leather shoes"
+name: "new balance"
 description: |
   A high end shoe made from pristine leather.
-image: "/images/wingtip-1684700_1920.jpg"
-price: 950
+image: "/images/sneak.jpg"
+price: 100
 colors:
-  - "brown"
-  - "black"
+  - "white"
 shape: "Round"
 clarity: "VVS1"
 ---

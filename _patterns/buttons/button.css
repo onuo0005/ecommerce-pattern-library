@@ -1,0 +1,8 @@
+.call {
+  background-color: black;
+  border: 0;
+}
+
+.call:hover {
+  background-color: red;
+}

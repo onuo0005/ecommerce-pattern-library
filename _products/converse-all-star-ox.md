@@ -1,11 +1,11 @@
 ---
-name: "leather shoes"
+name: "converse"
 description: |
   A high end shoe made from pristine leather.
-image: "/images/wingtip-1684700_1920.jpg"
-price: 950
+image: "/images/boots-181744.jpg"
+price: 200
 colors:
-  - "brown"
+  - "white"
   - "black"
 shape: "Round"
 clarity: "VVS1"

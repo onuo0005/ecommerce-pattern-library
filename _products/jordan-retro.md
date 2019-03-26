@@ -1,11 +1,11 @@
 ---
-name: "leather shoes"
+name: "jordan retro"
 description: |
   A high end shoe made from pristine leather.
-image: "/images/wingtip-1684700_1920.jpg"
+image: "/images/boot.jpg"
 price: 950
 colors:
-  - "brown"
+  - "red"
   - "black"
 shape: "Round"
 clarity: "VVS1"

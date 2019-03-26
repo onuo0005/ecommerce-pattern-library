@@ -22,3 +22,27 @@
   margin-right: 7rem;
 
 }
+
+.product-info h4 {
+  margin-bottom: 0;
+}
+
+.product-info {
+  padding: 0 1rem;
+}
+
+.product-info p {
+  font-size: .7rem;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.discript {
+  margin-bottom: 0;
+}
+
+.product-card {
+  max-width: 25em;
+}

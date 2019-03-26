@@ -1,11 +1,11 @@
 ---
-name: "leather shoes"
+name: "chuck taylor"
 description: |
   A high end shoe made from pristine leather.
-image: "/images/wingtip-1684700_1920.jpg"
-price: 950
+image: "/images/sneak.jpg"
+price: 250
 colors:
-  - "brown"
+  - "white"
   - "black"
 shape: "Round"
 clarity: "VVS1"

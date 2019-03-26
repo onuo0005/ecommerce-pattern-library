@@ -1,0 +1,9 @@
+title: card
+description: This is the footer of the website.
+
+fields:
+  - name:
+    type:
+    data:
+      source: "site.products[0]"
+      type: Product

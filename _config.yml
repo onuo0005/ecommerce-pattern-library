@@ -2,6 +2,16 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
+  title: "shoeland"
+  description: |
+    A shoe selling business, specializing in customer choice.
+  font_url: "https://fonts.googleapis.com/css?family=Open+Sans:400,700"
+  colors:
+    background: "--color-secondary-black"
+  color.primary: |
+    The primary colour is red
+  color.secondary: |
+    The primary colour is black
 
   layouts:
     default: |
@@ -14,6 +24,6 @@ collections:
 
 defaults:
   - scope:
-      path: _product
+      path: _products
     values:
-      layout: product
+      layout: products
