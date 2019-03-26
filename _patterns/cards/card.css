@@ -1,0 +1,24 @@
+.cardimage {
+  max-width: 100%;
+}
+
+.card {
+  text-align: center;
+  max-width: 100%;
+  padding: 2.5rem;
+}
+
+.ball {
+  background-color: black;
+  border: 0;
+  margin-bottom: 2rem;
+}
+
+.ball:hover {
+  background-color: red;
+}
+
+.cardround {
+  margin-right: 7rem;
+
+}

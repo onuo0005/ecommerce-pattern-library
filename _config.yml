@@ -2,4 +2,18 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
-  font_url: "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700|Source+Code+Pro:400;700"
+
+  layouts:
+    default: |
+      The default layout should be used for almost evrey page, it includes the website's header & footer.
+  font_url: "https://fonts.googleapis.com/css?family=Rock+Salt"
+
+collections:
+  products:
+    output: true
+
+defaults:
+  - scope:
+      path: _product
+    values:
+      layout: product

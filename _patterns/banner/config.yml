@@ -1,0 +1,12 @@
+patterns:
+  banner:
+    fields:
+    - name: heading
+      type: string
+      example: "Brilliant, stunning, bright"
+    - name: text
+      type: string
+      example: "Geological marvels: gems, crystals, diamonds, geodes and much more"
+    - name: image
+      type: string
+      example: "ruby"
