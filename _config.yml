@@ -26,4 +26,4 @@ defaults:
   - scope:
       path: _products
     values:
-      layout: products
+      layout: product

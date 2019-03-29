@@ -2,7 +2,7 @@
 name: "adidas"
 description: |
   A high end shoe made from pristine leather.
-image: "/images/flat.jpg"
+image: "/images/winter-boots-3846915_1920.jpg"
 price: 150
 colors:
   - "white"

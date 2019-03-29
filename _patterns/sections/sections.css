@@ -1,0 +1,53 @@
+.product-details ul {
+  padding: 1rem;
+}
+
+.buttonss {
+  padding-top: 1rem;
+}
+
+.item {
+  text-align: center;
+}
+
+.wrong {
+  text-align: center;
+}
+
+.return-policy {
+  padding: 1rem;
+}
+
+.return-policy p {
+  font-size: .75rem;
+}
+
+.return-policy h3 {
+  font-size: .85rem;
+  margin-bottom: .5rem;
+}
+
+
+.return-policy h1 {
+  font-size: 1.1rem;
+  margin-bottom: .5rem;
+}
+
+@media only screen and (min-width: 800px) {
+
+  .wrong li {
+    max-width: 49%;
+    float: left;
+  }
+
+  .details {
+    max-width: 47%;
+    text-align: left;
+    padding-left: 2rem;
+  }
+
+  .add {
+    margin-right: 2rem;
+  }
+
+}
