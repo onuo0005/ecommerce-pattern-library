@@ -20,7 +20,7 @@ The pattern library is a Jekyll & Patternbot based application that requires a r
 
 ## Wireframes
 
-https://projects.invisionapp.com/d/main#/projects/boards/6358680/189725157
+https://projects.invisionapp.com/boards/VQ3SAE02GBD/
 
 ##Collabotors
 
