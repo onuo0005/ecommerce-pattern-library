@@ -7,7 +7,7 @@ patternbot:
     A shoe selling business, specializing in customer choice.
   font_url: "https://fonts.googleapis.com/css?family=Open+Sans:400,700"
   colors:
-    background: "--color-secondary-black"
+    background: "#e2eade"
   color.primary: |
     The primary colour is red
   color.secondary: |
