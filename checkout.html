@@ -2,12 +2,15 @@
 layout: default
 ---
 
-<div class="wrapper island">
-  <h1>Checkout</h1>
+<div class="wrapper island-1-2">
+  <h1 class="pad-t">Checkout</h1>
   {% pattern Form/name %}
   {% pattern Form/email %}
   {% pattern Form/phone %}
   {% pattern Form/address %}
   {% pattern Form/province %}
   {% pattern Form/birth %}
+  <div class="pad-t-1-2 pad-b">
+      {% pattern buttons/button %}
+  </div>
 </div>
