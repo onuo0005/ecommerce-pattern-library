@@ -1,27 +1,13 @@
 <div class="img-flex product-details">
   <ul class="wrong list-group-inline">
-    <li><img class="item" src="/images/sneak.jpg" alt=""></li>
+    <li><img class="item" src="{{page.image}}" alt=""></li>
     <li class="details">
       <div class="wrapper">
-        <h2>JUNIOR RADFORD 6-INCH BOOTS</h2>
-        <p>CAD 170.00</p>
-        <p>One or more major components use at least 50% leather tanned in a facility rated Silver or higher by a third-party environmental audit. The Leather Working Group judges and classifies tanneries based on energy use, waste production and water treatment.</p>
-        <label for="province">Select a Size</label>
-        <select id="province">
-          <option>SIZE</option>
-          <option>British Columbia</option>
-          <option>Manitoba</option>
-          <option>New Brunswick</option>
-          <option>Newfoundland & Labrador</option>
-          <option>Northwest Territories</option>
-          <option>Nova Scotia</option>
-          <option>Nunavut</option>
-          <option>Ontario</option>
-          <option>Prince Edward Island</option>
-          <option>Québec</option>
-          <option>Saskatchewan</option>
-          <option>Yukon</option>
-        </select>
+        <h2>{{page.name}}</h2>
+        <p>${{page.price}}</p>
+        <p>{{page.description}}</p>
+        <!--One or more major components use at least 50% leather tanned in a facility rated Silver or higher by a third-party environmental audit. The Leather Working Group judges and classifies tanneries based on energy use, waste production and water treatment. -->
+        {% pattern Form/Size %}
 
       </div>
       <div class="text-center buttonss">
