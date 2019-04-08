@@ -33,6 +33,29 @@
   margin-bottom: .5rem;
 }
 
+.first {
+  padding-top: 1.3rem;
+}
+
+.checkout {
+  padding-left: 1.3rem;
+  padding-right: 1.3rem;
+  padding-bottom: 1.3rem;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .checkout {
+    background-color: #f2f2f2;
+  }
+
+
+  .stuff {
+    padding-right: .7rem;
+  }
+
+}
+
 @media only screen and (min-width: 800px) {
 
   .wrong li {
