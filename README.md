@@ -26,3 +26,4 @@ https://projects.invisionapp.com/boards/VQ3SAE02GBD/
 
 -[@KyleVBP](https://github.com/KyleVBP)
 -[@onuo0005](https://github.com/onuo0005)
+-[@megan-smith-6](https://github.com/megan-smith-6)
