@@ -23,3 +23,26 @@
 .is-validated:invalid + label + .error-message {
   display: block;
 }
+
+.first {
+  padding-top: 1.3rem;
+
+@media only screen and (min-width: 60em) {
+
+  section {
+    background-color: #fff;
+  }
+
+  body {
+    background-color: #f2f2f2;
+  }
+
+  .stuff {
+    padding-right: .5rem;
+  }
+
+  .otherstuff {
+    padding-left: .5rem;
+  }
+
+}
