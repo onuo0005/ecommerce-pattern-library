@@ -1,0 +1,44 @@
+title: "Banners"
+description: |
+  Banners are used to promote sections of the website, whether it is a new product or a sale.
+
+patterns:
+  banner:
+    title: "Top of Page"
+    description: |
+      The main top of page banner is used first on the product list page to catch the attention of a visitor and encourage them to shop.
+    fields:
+      - name: heading-title
+        type: string
+        example: "50% off sale on select items"
+      - name: heading-txt
+        type: string
+        example: "Only for a limited time"
+  banner-btn:
+    fields:
+      - name: heading-title
+        type: string
+        example: "Shop Easily"
+      - name: heading-txt
+        type: string
+        example: "With our Large Range of Products"
+    title: "Call to Action"
+    description: |
+      The call to action banner is used to promote certain items, or sales on the site, with a button to link to the location of the advertised item.
+  spot-banner:
+    fields:
+      - name: spot-album
+        type: string
+        example: "The Dream is Over"
+      - name: spot-artist
+        type: string
+        example: "PUP"
+      - name: spot-desc
+        type: string
+        example: "Description of the album"
+      - name: spot-price
+        type: string
+        example: "10"
+    title:
+    description: |
+      The spotlight banner is used to promote current top artists on the website, designed differently than the call to action so it can provide more information on the promotion.
