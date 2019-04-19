@@ -31,7 +31,3 @@ patterns:
     title: Province
     description: |
       The is used to input province.
-  size:
-    title: Size
-    description: |
-      This is used to input size.
