@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;}
-	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#000000;stroke-width:1.9868;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-</style>
-<rect class="st0" width="50" height="50"/>
-<circle class="st1" cx="39" cy="46" r="3"/>
-<circle class="st1" cx="26" cy="46" r="3"/>
-<circle cx="2" cy="4" r="2"/>
-<path class="st2" d="M41,43c0,0-12.67,0-15.29,0c-3.42,0-3.92-1.74-4.52-4.03l-8-32.28C12.47,4.27,11.46,3,8.66,3c0,0-4.75,0-6.66,0
-	"/>
-<polyline class="st2" points="16,16 47,16 39.81,35 20.61,35 "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" width="50" height="50" viewBox="0 0 50 50"><style>.st0{fill:none}.st1,.st2{fill:none;stroke:#000;stroke-width:2;stroke-miterlimit:10}.st2{stroke-width:1.9868;stroke-linecap:round;stroke-linejoin:round}</style><path d="M0 0h50v50H0z" class="st0"/><circle cx="39" cy="46" r="3" class="st1"/><circle cx="26" cy="46" r="3" class="st1"/><circle cx="2" cy="4" r="2"/><path d="M41 43H25.71c-3.42 0-3.92-1.74-4.52-4.03l-8-32.28C12.47 4.27 11.46 3 8.66 3H2" class="st2"/><path d="M16 16h31l-7.19 19h-19.2" class="st2"/></svg>

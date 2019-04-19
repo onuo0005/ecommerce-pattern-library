@@ -17,6 +17,14 @@ patternbot:
     default: |
       The default layout should be used for almost evrey page, it includes the website's header & footer.
   font_url: "https://fonts.googleapis.com/css?family=Rock+Salt"
+  rationales:
+    typefaces.primary: |
+      Open sans provides a simple and easygoing feel that is perfect for the website.
+    colors.primary: |
+      The primary colours represent easygoing feel to tha website.
+    colors.secondary: |
+      The secondary colours represent a bright and vibrant feel to the website, contrasting well with the primary color.
+
 
 collections:
   products:

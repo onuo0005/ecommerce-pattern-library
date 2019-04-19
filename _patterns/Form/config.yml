@@ -1,0 +1,37 @@
+title: "Form"
+description: |
+  Forms are used to collect information.
+
+patterns:
+  address:
+    title: Address
+    description: |
+      The is used to input address.
+  birth:
+    title: Birth
+    description: |
+      The is used to input birth.
+  email:
+    title: Email
+    description: |
+      The is used to input email.
+  name:
+    title: Name
+    description: |
+      The is used to input name.
+  password:
+    title: Password
+    description: |
+      The is used to input password.
+  phone:
+    title: Phone
+    description: |
+      The is used to input phone number.
+  province:
+    title: Province
+    description: |
+      The is used to input province.
+  size:
+    title: Size
+    description: |
+      This is used to input size.

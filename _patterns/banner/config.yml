@@ -1,12 +1,25 @@
+title: "banner"
+description: |
+  Banners are used to promote and advertise anything on a website.
+
 patterns:
-  banner:
-    fields:
-    - name: heading
-      type: string
-      example: "Brilliant, stunning, bright"
-    - name: text
-      type: string
-      example: "Geological marvels: gems, crystals, diamonds, geodes and much more"
-    - name: image
-      type: string
-      example: "ruby"
+  newsletter:
+    title: Newsletter
+    description: |
+      The is used to promote the newsletter.
+  sales-banner:
+    title: Sales Banner
+    description: |
+      The is used to promote a sale.
+  secondbanner:
+    title: Main Banner
+    description: |
+      This is the main banner used on the homepage. This banner has a button.
+  fourthbanner:
+    title: Secondary banner
+    description: |
+      This is a decorative banner.
+  thirdbanner:
+    title: 2 Secondary banner
+    description: |
+      This banner is for use on secondary pages and can be paired with the main banner.

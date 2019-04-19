@@ -1,9 +1,13 @@
-title: card
-description: This is the footer of the website.
+title: "Card"
+description: |
+  Cards are small information snippets.
 
-fields:
-  - name:
-    type:
-    data:
-      source: "site.products[0]"
-      type: Product
+patterns:
+  card:
+    title: Card
+    description: |
+      The is a basic card.
+  sectioncard:
+    title: Section card
+    description: |
+      The is a grouping of the basic card.
